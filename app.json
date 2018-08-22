@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "kornerz",
+    "icon": "./icon.png",
+    "version": "1.0.1",
+    "slug": "kornerz",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.kornerz.test"
+    },
+    "android": {
+      "package": "com.kornerz.test"
+    }
+   },
+  "notification": {
+    "icon": "./icon.png"
+  }
+}
